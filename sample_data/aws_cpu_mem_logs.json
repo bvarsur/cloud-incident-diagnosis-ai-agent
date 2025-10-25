@@ -1,0 +1,6602 @@
+[
+  {
+    "timestamp": "2025-09-28T09:09:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 53.45,
+    "memory_utilization": 30.0,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 53.45% MEM 30.00% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:36:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 46.1,
+    "memory_utilization": 18.54,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 46.10% MEM 18.54% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:57:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 28.8,
+    "memory_utilization": 56.03,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 28.80% MEM 56.03% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:51:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 25.32,
+    "memory_utilization": 52.95,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 25.32% MEM 52.95% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:25:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 48.55,
+    "memory_utilization": 18.66,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 48.55% MEM 18.66% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:49:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 29.53,
+    "memory_utilization": 54.9,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 29.53% MEM 54.90% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:39:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 48.61,
+    "memory_utilization": 18.42,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 48.61% MEM 18.42% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:49:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 10.94,
+    "memory_utilization": 34.85,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 10.94% MEM 34.85% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:06:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 61.83,
+    "memory_utilization": 26.91,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 61.83% MEM 26.91% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:37:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 56.15,
+    "memory_utilization": 22.96,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 56.15% MEM 22.96% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:50:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 25.53,
+    "memory_utilization": 60.98,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 25.53% MEM 60.98% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:33:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 23.62,
+    "memory_utilization": 62.23,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 23.62% MEM 62.23% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:16:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 20.15,
+    "memory_utilization": 42.54,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 20.15% MEM 42.54% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:10:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 28.77,
+    "memory_utilization": 52.03,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 28.77% MEM 52.03% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:25:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 14.63,
+    "memory_utilization": 24.22,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 14.63% MEM 24.22% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:12:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 19.58,
+    "memory_utilization": 55.01,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 19.58% MEM 55.01% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:33:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 23.96,
+    "memory_utilization": 27.59,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 23.96% MEM 27.59% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:02:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 40.69,
+    "memory_utilization": 18.68,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 40.69% MEM 18.68% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:05:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 18.92,
+    "memory_utilization": 38.13,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 18.92% MEM 38.13% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:17:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 31.25,
+    "memory_utilization": 53.89,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 31.25% MEM 53.89% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:26:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 62.56,
+    "memory_utilization": 28.95,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 62.56% MEM 28.95% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:30:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 49.35,
+    "memory_utilization": 25.92,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 49.35% MEM 25.92% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:49:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 15.79,
+    "memory_utilization": 24.79,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 15.79% MEM 24.79% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:53:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 48.06,
+    "memory_utilization": 22.32,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 48.06% MEM 22.32% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:34:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 18.11,
+    "memory_utilization": 20.88,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 18.11% MEM 20.88% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:59:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 37.79,
+    "memory_utilization": 17.43,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 37.79% MEM 17.43% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:06:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 13.58,
+    "memory_utilization": 22.16,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 13.58% MEM 22.16% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:47:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 21.43,
+    "memory_utilization": 23.37,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 21.43% MEM 23.37% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:24:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 14.68,
+    "memory_utilization": 40.49,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 14.68% MEM 40.49% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:02:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 30.52,
+    "memory_utilization": 56.8,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 30.52% MEM 56.80% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:52:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 21.54,
+    "memory_utilization": 21.51,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 21.54% MEM 21.51% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:45:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 21.64,
+    "memory_utilization": 24.32,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 21.64% MEM 24.32% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:20:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 23.12,
+    "memory_utilization": 62.44,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 23.12% MEM 62.44% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:56:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 11.76,
+    "memory_utilization": 39.03,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 11.76% MEM 39.03% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:45:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 10.64,
+    "memory_utilization": 34.95,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 10.64% MEM 34.95% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:35:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 53.48,
+    "memory_utilization": 30.56,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 53.48% MEM 30.56% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:50:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 66.78,
+    "memory_utilization": 29.13,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 66.78% MEM 29.13% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:37:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 45.87,
+    "memory_utilization": 21.96,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 45.87% MEM 21.96% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:42:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 11.05,
+    "memory_utilization": 19.95,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 11.05% MEM 19.95% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:01:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 30.39,
+    "memory_utilization": 54.13,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 30.39% MEM 54.13% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:58:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 22.19,
+    "memory_utilization": 60.23,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 22.19% MEM 60.23% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:46:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 51.52,
+    "memory_utilization": 25.78,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 51.52% MEM 25.78% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:23:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 62.11,
+    "memory_utilization": 26.16,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 62.11% MEM 26.16% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:03:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 64.23,
+    "memory_utilization": 32.48,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 64.23% MEM 32.48% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:43:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 66.67,
+    "memory_utilization": 24.78,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 66.67% MEM 24.78% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:02:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 57.06,
+    "memory_utilization": 24.11,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 57.06% MEM 24.11% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:37:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 23.67,
+    "memory_utilization": 20.92,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 23.67% MEM 20.92% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:44:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 44.2,
+    "memory_utilization": 19.94,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 44.20% MEM 19.94% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:11:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 17.0,
+    "memory_utilization": 55.12,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 17.00% MEM 55.12% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:41:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 38.55,
+    "memory_utilization": 17.56,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 38.55% MEM 17.56% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:47:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 20.28,
+    "memory_utilization": 42.96,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 20.28% MEM 42.96% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:13:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 19.49,
+    "memory_utilization": 37.26,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 19.49% MEM 37.26% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:15:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 12.12,
+    "memory_utilization": 40.61,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 12.12% MEM 40.61% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:52:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 17.91,
+    "memory_utilization": 57.93,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 17.91% MEM 57.93% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:28:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 21.22,
+    "memory_utilization": 53.65,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 21.22% MEM 53.65% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:24:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 24.43,
+    "memory_utilization": 26.66,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 24.43% MEM 26.66% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:03:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 15.09,
+    "memory_utilization": 17.54,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 15.09% MEM 17.54% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:17:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 39.87,
+    "memory_utilization": 23.31,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 39.87% MEM 23.31% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:53:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 64.28,
+    "memory_utilization": 27.15,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 64.28% MEM 27.15% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:07:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 20.28,
+    "memory_utilization": 60.37,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 20.28% MEM 60.37% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:52:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 45.55,
+    "memory_utilization": 17.34,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 45.55% MEM 17.34% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:21:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 22.86,
+    "memory_utilization": 58.33,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 22.86% MEM 58.33% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:22:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 41.97,
+    "memory_utilization": 26.62,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 41.97% MEM 26.62% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:27:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 16.06,
+    "memory_utilization": 26.49,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 16.06% MEM 26.49% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:14:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 16.99,
+    "memory_utilization": 53.34,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 16.99% MEM 53.34% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:11:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 64.94,
+    "memory_utilization": 33.01,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 64.94% MEM 33.01% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:44:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 11.0,
+    "memory_utilization": 24.38,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 11.00% MEM 24.38% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:25:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 27.27,
+    "memory_utilization": 56.72,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 27.27% MEM 56.72% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:18:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 10.08,
+    "memory_utilization": 17.66,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 10.08% MEM 17.66% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:33:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 55.21,
+    "memory_utilization": 30.08,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 55.21% MEM 30.08% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:20:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 45.16,
+    "memory_utilization": 20.53,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 45.16% MEM 20.53% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:29:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 42.59,
+    "memory_utilization": 19.91,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 42.59% MEM 19.91% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:28:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 59.22,
+    "memory_utilization": 24.47,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 59.22% MEM 24.47% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:14:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 15.9,
+    "memory_utilization": 34.09,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 15.90% MEM 34.09% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:15:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 30.97,
+    "memory_utilization": 53.72,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 30.97% MEM 53.72% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:17:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 18.87,
+    "memory_utilization": 27.78,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 18.87% MEM 27.78% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:15:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 16.66,
+    "memory_utilization": 22.57,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 16.66% MEM 22.57% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:00:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 13.16,
+    "memory_utilization": 18.54,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 13.16% MEM 18.54% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:51:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 38.99,
+    "memory_utilization": 21.88,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 38.99% MEM 21.88% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:52:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 13.02,
+    "memory_utilization": 42.13,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 13.02% MEM 42.13% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:11:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 42.17,
+    "memory_utilization": 28.19,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 42.17% MEM 28.19% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:59:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 18.68,
+    "memory_utilization": 25.6,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 18.68% MEM 25.60% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:47:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 42.13,
+    "memory_utilization": 17.72,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 42.13% MEM 17.72% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:42:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 11.46,
+    "memory_utilization": 37.13,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 11.46% MEM 37.13% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:29:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 96.5,
+    "memory_utilization": 57.96,
+    "severity": "CRITICAL",
+    "message": "MetricReport - CPU 96.50% MEM 57.96% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:57:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 39.93,
+    "memory_utilization": 27.94,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 39.93% MEM 27.94% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:54:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 64.88,
+    "memory_utilization": 32.64,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 64.88% MEM 32.64% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:07:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 8.4,
+    "memory_utilization": 32.81,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 8.40% MEM 32.81% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:09:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 11.47,
+    "memory_utilization": 24.4,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 11.47% MEM 24.40% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:13:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 49.53,
+    "memory_utilization": 17.44,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 49.53% MEM 17.44% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:29:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 14.25,
+    "memory_utilization": 19.99,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 14.25% MEM 19.99% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:50:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 23.61,
+    "memory_utilization": 27.36,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 23.61% MEM 27.36% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:26:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 14.5,
+    "memory_utilization": 39.71,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 14.50% MEM 39.71% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:18:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 51.78,
+    "memory_utilization": 25.34,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 51.78% MEM 25.34% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:38:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 19.21,
+    "memory_utilization": 23.63,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 19.21% MEM 23.63% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:28:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 10.84,
+    "memory_utilization": 18.55,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 10.84% MEM 18.55% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:23:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 18.59,
+    "memory_utilization": 35.73,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 18.59% MEM 35.73% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:13:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 20.49,
+    "memory_utilization": 25.63,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 20.49% MEM 25.63% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:42:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 25.06,
+    "memory_utilization": 51.61,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 25.06% MEM 51.61% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:05:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 19.88,
+    "memory_utilization": 25.04,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 19.88% MEM 25.04% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:33:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 11.93,
+    "memory_utilization": 41.56,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 11.93% MEM 41.56% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:48:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 25.21,
+    "memory_utilization": 55.43,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 25.21% MEM 55.43% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:00:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 45.02,
+    "memory_utilization": 25.42,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 45.02% MEM 25.42% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:21:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 16.64,
+    "memory_utilization": 42.05,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 16.64% MEM 42.05% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:19:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 46.94,
+    "memory_utilization": 23.97,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 46.94% MEM 23.97% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:12:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 18.91,
+    "memory_utilization": 34.56,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 18.91% MEM 34.56% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:15:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 59.62,
+    "memory_utilization": 31.59,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 59.62% MEM 31.59% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:03:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 19.53,
+    "memory_utilization": 36.19,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 19.53% MEM 36.19% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:12:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 46.66,
+    "memory_utilization": 27.51,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 46.66% MEM 27.51% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:58:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 13.05,
+    "memory_utilization": 26.85,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 13.05% MEM 26.85% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:59:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 12.42,
+    "memory_utilization": 32.43,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 12.42% MEM 32.43% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:31:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 31.88,
+    "memory_utilization": 60.85,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 31.88% MEM 60.85% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:48:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 21.91,
+    "memory_utilization": 17.94,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 21.91% MEM 17.94% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:31:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 42.69,
+    "memory_utilization": 19.35,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 42.69% MEM 19.35% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:58:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 39.52,
+    "memory_utilization": 26.85,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 39.52% MEM 26.85% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:34:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 10.85,
+    "memory_utilization": 38.19,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 10.85% MEM 38.19% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:20:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 23.32,
+    "memory_utilization": 27.02,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 23.32% MEM 27.02% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:25:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 15.17,
+    "memory_utilization": 33.23,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 15.17% MEM 33.23% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:46:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 21.48,
+    "memory_utilization": 59.79,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 21.48% MEM 59.79% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:47:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 66.7,
+    "memory_utilization": 30.14,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 66.70% MEM 30.14% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:40:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 78.23,
+    "memory_utilization": 56.33,
+    "severity": "HIGH",
+    "message": "MetricReport - CPU 78.23% MEM 56.33% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:25:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 62.31,
+    "memory_utilization": 31.37,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 62.31% MEM 31.37% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:28:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 9.73,
+    "memory_utilization": 39.09,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 9.73% MEM 39.09% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:24:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 55.99,
+    "memory_utilization": 23.9,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 55.99% MEM 23.90% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:49:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 54.7,
+    "memory_utilization": 29.95,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 54.70% MEM 29.95% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:36:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 14.11,
+    "memory_utilization": 34.04,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 14.11% MEM 34.04% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:50:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 21.89,
+    "memory_utilization": 37.63,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 21.89% MEM 37.63% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:10:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 42.43,
+    "memory_utilization": 40.06,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 42.43% MEM 40.06% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:32:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 20.53,
+    "memory_utilization": 36.17,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 20.53% MEM 36.17% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:17:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 9.69,
+    "memory_utilization": 40.69,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 9.69% MEM 40.69% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:12:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 53.59,
+    "memory_utilization": 27.18,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 53.59% MEM 27.18% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:06:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 10.01,
+    "memory_utilization": 34.19,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 10.01% MEM 34.19% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:04:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 25.63,
+    "memory_utilization": 54.7,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 25.63% MEM 54.70% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:56:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 51.97,
+    "memory_utilization": 18.52,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 51.97% MEM 18.52% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:04:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 51.41,
+    "memory_utilization": 21.64,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 51.41% MEM 21.64% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:43:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 21.79,
+    "memory_utilization": 52.1,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 21.79% MEM 52.10% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:06:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 46.94,
+    "memory_utilization": 28.13,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 46.94% MEM 28.13% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:40:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 21.17,
+    "memory_utilization": 33.61,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 21.17% MEM 33.61% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:45:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 18.87,
+    "memory_utilization": 55.17,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 18.87% MEM 55.17% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:11:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 20.08,
+    "memory_utilization": 39.41,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 20.08% MEM 39.41% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:20:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 64.74,
+    "memory_utilization": 31.47,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 64.74% MEM 31.47% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:19:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 21.23,
+    "memory_utilization": 58.07,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 21.23% MEM 58.07% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:13:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 63.97,
+    "memory_utilization": 25.47,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 63.97% MEM 25.47% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:38:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 22.31,
+    "memory_utilization": 42.47,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 22.31% MEM 42.47% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:53:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 23.17,
+    "memory_utilization": 26.01,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 23.17% MEM 26.01% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:21:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 61.94,
+    "memory_utilization": 29.41,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 61.94% MEM 29.41% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:18:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 58.9,
+    "memory_utilization": 28.09,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 58.90% MEM 28.09% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:47:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 17.92,
+    "memory_utilization": 60.47,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 17.92% MEM 60.47% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:39:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 20.81,
+    "memory_utilization": 27.4,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 20.81% MEM 27.40% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:22:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 55.56,
+    "memory_utilization": 30.66,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 55.56% MEM 30.66% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:30:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 11.64,
+    "memory_utilization": 23.37,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 11.64% MEM 23.37% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:59:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 19.14,
+    "memory_utilization": 52.55,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 19.14% MEM 52.55% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:38:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 39.36,
+    "memory_utilization": 24.48,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 39.36% MEM 24.48% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:04:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 52.58,
+    "memory_utilization": 23.08,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 52.58% MEM 23.08% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:16:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 38.93,
+    "memory_utilization": 26.83,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 38.93% MEM 26.83% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:16:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 29.72,
+    "memory_utilization": 55.34,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 29.72% MEM 55.34% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:37:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 21.29,
+    "memory_utilization": 38.01,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 21.29% MEM 38.01% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:32:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 57.76,
+    "memory_utilization": 31.4,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 57.76% MEM 31.40% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:40:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 59.67,
+    "memory_utilization": 25.96,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 59.67% MEM 25.96% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:26:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 13.61,
+    "memory_utilization": 19.13,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 13.61% MEM 19.13% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:55:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 14.11,
+    "memory_utilization": 40.43,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 14.11% MEM 40.43% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:05:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 58.43,
+    "memory_utilization": 29.6,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 58.43% MEM 29.60% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:54:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 46.68,
+    "memory_utilization": 18.84,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 46.68% MEM 18.84% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:57:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 17.14,
+    "memory_utilization": 38.65,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 17.14% MEM 38.65% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:31:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 18.06,
+    "memory_utilization": 21.8,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 18.06% MEM 21.80% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:22:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 9.98,
+    "memory_utilization": 41.42,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 9.98% MEM 41.42% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:14:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 23.21,
+    "memory_utilization": 18.27,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 23.21% MEM 18.27% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:26:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 38.26,
+    "memory_utilization": 22.02,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 38.26% MEM 22.02% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:43:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 8.63,
+    "memory_utilization": 41.6,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 8.63% MEM 41.60% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:30:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 9.69,
+    "memory_utilization": 36.85,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 9.69% MEM 36.85% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:35:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 8.76,
+    "memory_utilization": 38.9,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 8.76% MEM 38.90% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:12:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 14.09,
+    "memory_utilization": 22.97,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 14.09% MEM 22.97% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:23:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 43.99,
+    "memory_utilization": 25.53,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 43.99% MEM 25.53% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:03:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 50.84,
+    "memory_utilization": 19.05,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 50.84% MEM 19.05% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:32:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 30.51,
+    "memory_utilization": 57.16,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 30.51% MEM 57.16% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:57:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 56.61,
+    "memory_utilization": 29.8,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 56.61% MEM 29.80% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:50:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 38.08,
+    "memory_utilization": 19.77,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 38.08% MEM 19.77% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:00:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 14.61,
+    "memory_utilization": 41.73,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 14.61% MEM 41.73% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:01:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 61.48,
+    "memory_utilization": 31.62,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 61.48% MEM 31.62% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:27:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 12.85,
+    "memory_utilization": 34.94,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 12.85% MEM 34.94% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:46:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 56.7,
+    "memory_utilization": 24.86,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 56.70% MEM 24.86% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:44:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 9.44,
+    "memory_utilization": 33.55,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 9.44% MEM 33.55% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:54:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 8.09,
+    "memory_utilization": 38.61,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 8.09% MEM 38.61% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:07:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 48.54,
+    "memory_utilization": 20.89,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 48.54% MEM 20.89% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:40:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 28.88,
+    "memory_utilization": 54.89,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 28.88% MEM 54.89% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:23:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 15.93,
+    "memory_utilization": 23.83,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 15.93% MEM 23.83% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:56:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 59.5,
+    "memory_utilization": 30.39,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 59.50% MEM 30.39% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:41:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 14.57,
+    "memory_utilization": 24.02,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 14.57% MEM 24.02% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:41:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 60.38,
+    "memory_utilization": 87.36,
+    "severity": "HIGH",
+    "message": "MetricReport - CPU 60.38% MEM 87.36% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:11:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 22.32,
+    "memory_utilization": 25.3,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 22.32% MEM 25.30% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:43:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 18.37,
+    "memory_utilization": 23.9,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 18.37% MEM 23.90% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:20:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 13.59,
+    "memory_utilization": 41.08,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 13.59% MEM 41.08% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:35:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 21.18,
+    "memory_utilization": 52.0,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 21.18% MEM 52.00% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:56:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 24.52,
+    "memory_utilization": 21.91,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 24.52% MEM 21.91% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:16:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 10.37,
+    "memory_utilization": 18.86,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 10.37% MEM 18.86% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:19:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 65.23,
+    "memory_utilization": 32.14,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 65.23% MEM 32.14% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:36:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 22.42,
+    "memory_utilization": 61.17,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 22.42% MEM 61.17% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:35:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 41.75,
+    "memory_utilization": 26.02,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 41.75% MEM 26.02% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:56:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 27.07,
+    "memory_utilization": 59.86,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 27.07% MEM 59.86% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:13:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 29.22,
+    "memory_utilization": 56.5,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 29.22% MEM 56.50% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:43:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 50.93,
+    "memory_utilization": 27.63,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 50.93% MEM 27.63% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:14:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 52.22,
+    "memory_utilization": 29.29,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 52.22% MEM 29.29% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:46:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 14.33,
+    "memory_utilization": 26.84,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 14.33% MEM 26.84% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:03:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 18.86,
+    "memory_utilization": 51.73,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 18.86% MEM 51.73% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:26:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 28.39,
+    "memory_utilization": 58.24,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 28.39% MEM 58.24% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:23:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 30.52,
+    "memory_utilization": 59.23,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 30.52% MEM 59.23% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:08:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 15.5,
+    "memory_utilization": 36.72,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 15.50% MEM 36.72% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:44:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 29.48,
+    "memory_utilization": 57.06,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 29.48% MEM 57.06% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:38:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 61.44,
+    "memory_utilization": 25.25,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 61.44% MEM 25.25% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:01:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 49.19,
+    "memory_utilization": 47.72,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 49.19% MEM 47.72% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:52:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 92.17,
+    "memory_utilization": 42.86,
+    "severity": "CRITICAL",
+    "message": "MetricReport - CPU 92.17% MEM 42.86% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:51:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 10.82,
+    "memory_utilization": 39.93,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 10.82% MEM 39.93% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:34:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 57.3,
+    "memory_utilization": 31.04,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 57.30% MEM 31.04% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:33:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 48.74,
+    "memory_utilization": 26.54,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 48.74% MEM 26.54% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:06:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 21.78,
+    "memory_utilization": 54.0,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 21.78% MEM 54.00% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:14:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 48.63,
+    "memory_utilization": 27.46,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 48.63% MEM 27.46% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:15:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 42.54,
+    "memory_utilization": 19.4,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 42.54% MEM 19.40% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:19:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 23.78,
+    "memory_utilization": 19.18,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 23.78% MEM 19.18% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:16:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 66.37,
+    "memory_utilization": 32.59,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 66.37% MEM 32.59% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:18:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 17.84,
+    "memory_utilization": 39.58,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 17.84% MEM 39.58% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:01:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 43.9,
+    "memory_utilization": 20.06,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 43.90% MEM 20.06% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:34:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 43.86,
+    "memory_utilization": 24.08,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 43.86% MEM 24.08% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:29:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 19.1,
+    "memory_utilization": 59.27,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 19.10% MEM 59.27% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:55:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 17.0,
+    "memory_utilization": 27.99,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 17.00% MEM 27.99% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:22:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 23.1,
+    "memory_utilization": 56.38,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 23.10% MEM 56.38% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:01:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 13.67,
+    "memory_utilization": 42.66,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 13.67% MEM 42.66% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:21:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 50.02,
+    "memory_utilization": 18.5,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 50.02% MEM 18.50% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:39:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 10.54,
+    "memory_utilization": 40.93,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 10.54% MEM 40.93% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:41:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 100.0,
+    "memory_utilization": 46.02,
+    "severity": "CRITICAL",
+    "message": "MetricReport - CPU 100.00% MEM 46.02% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:36:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 17.32,
+    "memory_utilization": 19.08,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 17.32% MEM 19.08% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:54:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 19.29,
+    "memory_utilization": 18.7,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 19.29% MEM 18.70% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:19:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 9.53,
+    "memory_utilization": 42.98,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 9.53% MEM 42.98% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:53:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 23.03,
+    "memory_utilization": 55.48,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 23.03% MEM 55.48% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:40:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 16.08,
+    "memory_utilization": 18.87,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 16.08% MEM 18.87% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:42:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 66.2,
+    "memory_utilization": 26.79,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 66.20% MEM 26.79% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:31:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 63.4,
+    "memory_utilization": 26.12,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 63.40% MEM 26.12% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:59:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 86.15,
+    "memory_utilization": 22.69,
+    "severity": "HIGH",
+    "message": "MetricReport - CPU 86.15% MEM 22.69% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:55:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 63.75,
+    "memory_utilization": 29.59,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 63.75% MEM 29.59% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:09:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 8.97,
+    "memory_utilization": 39.54,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 8.97% MEM 39.54% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:08:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 37.88,
+    "memory_utilization": 25.06,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 37.88% MEM 25.06% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:05:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 39.98,
+    "memory_utilization": 27.77,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 39.98% MEM 27.77% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:58:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 10.98,
+    "memory_utilization": 42.5,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 10.98% MEM 42.50% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:35:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 13.83,
+    "memory_utilization": 23.55,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 13.83% MEM 23.55% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:27:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 41.37,
+    "memory_utilization": 24.86,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 41.37% MEM 24.86% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:24:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 74.2,
+    "memory_utilization": 41.19,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 74.20% MEM 41.19% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:04:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 13.46,
+    "memory_utilization": 37.31,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 13.46% MEM 37.31% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:39:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 17.48,
+    "memory_utilization": 60.05,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 17.48% MEM 60.05% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:08:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 62.33,
+    "memory_utilization": 28.35,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 62.33% MEM 28.35% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:41:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 22.3,
+    "memory_utilization": 34.73,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 22.30% MEM 34.73% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:00:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 58.12,
+    "memory_utilization": 27.39,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 58.12% MEM 27.39% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:00:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 29.29,
+    "memory_utilization": 58.99,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 29.29% MEM 58.99% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:46:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 17.97,
+    "memory_utilization": 33.87,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 17.97% MEM 33.87% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:34:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 18.37,
+    "memory_utilization": 58.17,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 18.37% MEM 58.17% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:48:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 63.9,
+    "memory_utilization": 31.69,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 63.90% MEM 31.69% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:38:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 18.7,
+    "memory_utilization": 56.68,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 18.70% MEM 56.68% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:21:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 13.03,
+    "memory_utilization": 20.81,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 13.03% MEM 20.81% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:51:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 65.97,
+    "memory_utilization": 30.63,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 65.97% MEM 30.63% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:09:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 47.77,
+    "memory_utilization": 26.18,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 47.77% MEM 26.18% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:24:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 20.44,
+    "memory_utilization": 53.72,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 20.44% MEM 53.72% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:58:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 65.75,
+    "memory_utilization": 27.28,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 65.75% MEM 27.28% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:55:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 19.47,
+    "memory_utilization": 55.33,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 19.47% MEM 55.33% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:08:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 29.27,
+    "memory_utilization": 57.06,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 29.27% MEM 57.06% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:30:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 25.33,
+    "memory_utilization": 56.94,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 25.33% MEM 56.94% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:36:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 60.95,
+    "memory_utilization": 28.54,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 60.95% MEM 28.54% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:48:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 14.36,
+    "memory_utilization": 39.96,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 14.36% MEM 39.96% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:28:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 43.75,
+    "memory_utilization": 18.41,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 43.75% MEM 18.41% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:05:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 31.61,
+    "memory_utilization": 53.88,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 31.61% MEM 53.88% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:48:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 51.85,
+    "memory_utilization": 20.78,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 51.85% MEM 20.78% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:07:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 61.73,
+    "memory_utilization": 23.49,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 61.73% MEM 23.49% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:07:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 21.66,
+    "memory_utilization": 18.86,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 21.66% MEM 18.86% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:49:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 45.08,
+    "memory_utilization": 26.99,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 45.08% MEM 26.99% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:17:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 66.32,
+    "memory_utilization": 26.43,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 66.32% MEM 26.43% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:30:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 63.79,
+    "memory_utilization": 27.87,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 63.79% MEM 27.87% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:57:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 12.63,
+    "memory_utilization": 18.2,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 12.63% MEM 18.20% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:08:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 15.3,
+    "memory_utilization": 25.04,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 15.30% MEM 25.04% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:45:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 66.5,
+    "memory_utilization": 23.51,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 66.50% MEM 23.51% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:51:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 10.41,
+    "memory_utilization": 28.2,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 10.41% MEM 28.20% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:27:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 52.09,
+    "memory_utilization": 30.78,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 52.09% MEM 30.78% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:32:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 14.83,
+    "memory_utilization": 20.06,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 14.83% MEM 20.06% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:45:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 50.49,
+    "memory_utilization": 23.72,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 50.49% MEM 23.72% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:54:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 22.0,
+    "memory_utilization": 54.13,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 22.00% MEM 54.13% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:37:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 20.64,
+    "memory_utilization": 54.03,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 20.64% MEM 54.03% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:39:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 65.57,
+    "memory_utilization": 30.53,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 65.57% MEM 30.53% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:27:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 23.48,
+    "memory_utilization": 56.16,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 23.48% MEM 56.16% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:18:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 19.08,
+    "memory_utilization": 59.21,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 19.08% MEM 59.21% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:02:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 18.35,
+    "memory_utilization": 43.07,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 18.35% MEM 43.07% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:44:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 57.83,
+    "memory_utilization": 24.47,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 57.83% MEM 24.47% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:10:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "eu-west-1",
+    "account_id": "123456789012",
+    "instance_id": "i-05053435E",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 54.48,
+    "memory_utilization": 23.06,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 54.48% MEM 23.06% for instance i-05053435E",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-05053435E"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:31:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 17.66,
+    "memory_utilization": 33.17,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 17.66% MEM 33.17% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:55:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 39.36,
+    "memory_utilization": 17.66,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 39.36% MEM 17.66% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:02:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 22.62,
+    "memory_utilization": 25.43,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 22.62% MEM 25.43% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:10:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 14.69,
+    "memory_utilization": 33.47,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 14.69% MEM 33.47% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:29:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 12.46,
+    "memory_utilization": 41.58,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 12.46% MEM 41.58% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:32:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 37.34,
+    "memory_utilization": 22.58,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 37.34% MEM 22.58% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:04:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 19.86,
+    "memory_utilization": 24.06,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 19.86% MEM 24.06% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:09:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01170812D",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 22.65,
+    "memory_utilization": 56.39,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 22.65% MEM 56.39% for instance i-01170812D",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01170812D"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:53:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-02765330C",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 13.39,
+    "memory_utilization": 41.47,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 13.39% MEM 41.47% for instance i-02765330C",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-02765330C"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:10:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 51.15,
+    "memory_utilization": 21.76,
+    "severity": "MEDIUM",
+    "message": "MetricReport - CPU 51.15% MEM 21.76% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T08:42:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "ap-south-1",
+    "account_id": "123456789012",
+    "instance_id": "i-09052596A",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 40.69,
+    "memory_utilization": 19.14,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 40.69% MEM 19.14% for instance i-09052596A",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-09052596A"
+      },
+      "Unit": "Percent"
+    }
+  },
+  {
+    "timestamp": "2025-09-28T09:22:33Z",
+    "platform": "AWS",
+    "service": "EC2",
+    "region": "us-west-2",
+    "account_id": "123456789012",
+    "instance_id": "i-01280018B",
+    "resource_type": "ec2-instance",
+    "event_type": "MetricReport",
+    "cpu_utilization": 12.99,
+    "memory_utilization": 23.02,
+    "severity": "INFO",
+    "message": "MetricReport - CPU 12.99% MEM 23.02% for instance i-01280018B",
+    "cloudwatch_metric": {
+      "Namespace": "AWS/EC2",
+      "MetricName": "CPUUtilization",
+      "Dimensions": {
+        "InstanceId": "i-01280018B"
+      },
+      "Unit": "Percent"
+    }
+  }
+]

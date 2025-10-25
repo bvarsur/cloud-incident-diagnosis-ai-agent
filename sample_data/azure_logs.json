@@ -1,0 +1,200 @@
+[
+  {
+    "timestamp": "2024-01-15T15:45:10Z",
+    "service": "web-app",
+    "severity": "ERROR",
+    "message": "Application Insights: Exception in user controller - NullReferenceException",
+    "operation_name": "GetUserProfile",
+    "user_id": "user-456",
+    "session_id": "session-789",
+    "exception_type": "NullReferenceException"
+  },
+  {
+    "timestamp": "2024-01-15T15:45:11Z",
+    "service": "web-app",
+    "severity": "ERROR",
+    "message": "Application Insights: Exception in user controller - NullReferenceException",
+    "operation_name": "GetUserProfile",
+    "user_id": "user-457",
+    "session_id": "session-790",
+    "exception_type": "NullReferenceException"
+  },
+  {
+    "timestamp": "2024-01-15T15:45:12Z",
+    "service": "web-app",
+    "severity": "ERROR",
+    "message": "Application Insights: Exception in user controller - NullReferenceException",
+    "operation_name": "GetUserProfile",
+    "user_id": "user-458",
+    "session_id": "session-791",
+    "exception_type": "NullReferenceException"
+  },
+  {
+    "timestamp": "2024-01-15T15:45:13Z",
+    "service": "web-app",
+    "severity": "ERROR",
+    "message": "Application Insights: Exception in user controller - NullReferenceException",
+    "operation_name": "GetUserProfile",
+    "user_id": "user-459",
+    "session_id": "session-792",
+    "exception_type": "NullReferenceException"
+  },
+  {
+    "timestamp": "2024-01-15T15:45:14Z",
+    "service": "web-app",
+    "severity": "ERROR",
+    "message": "Application Insights: Exception in user controller - NullReferenceException",
+    "operation_name": "GetUserProfile",
+    "user_id": "user-460",
+    "session_id": "session-793",
+    "exception_type": "NullReferenceException"
+  },
+  {
+    "timestamp": "2024-01-15T15:45:15Z",
+    "service": "web-app",
+    "severity": "WARN",
+    "message": "Application Insights: High response time detected - 8.5 seconds",
+    "operation_name": "GetUserProfile",
+    "response_time": 8500,
+    "user_id": "user-461"
+  },
+  {
+    "timestamp": "2024-01-15T15:45:16Z",
+    "service": "web-app",
+    "severity": "ERROR",
+    "message": "Application Insights: Exception in user controller - NullReferenceException",
+    "operation_name": "GetUserProfile",
+    "user_id": "user-462",
+    "session_id": "session-794",
+    "exception_type": "NullReferenceException"
+  },
+  {
+    "timestamp": "2024-01-15T15:45:17Z",
+    "service": "web-app",
+    "severity": "ERROR",
+    "message": "Application Insights: Exception in user controller - NullReferenceException",
+    "operation_name": "GetUserProfile",
+    "user_id": "user-463",
+    "session_id": "session-795",
+    "exception_type": "NullReferenceException"
+  },
+  {
+    "timestamp": "2024-01-15T15:45:18Z",
+    "service": "web-app",
+    "severity": "ERROR",
+    "message": "Application Insights: Exception in user controller - NullReferenceException",
+    "operation_name": "GetUserProfile",
+    "user_id": "user-464",
+    "session_id": "session-796",
+    "exception_type": "NullReferenceException"
+  },
+  {
+    "timestamp": "2024-01-15T15:45:19Z",
+    "service": "web-app",
+    "severity": "ERROR",
+    "message": "Application Insights: Exception in user controller - NullReferenceException",
+    "operation_name": "GetUserProfile",
+    "user_id": "user-465",
+    "session_id": "session-797",
+    "exception_type": "NullReferenceException"
+  },
+  {
+    "timestamp": "2024-01-15T15:45:20Z",
+    "service": "web-app",
+    "severity": "CRITICAL",
+    "message": "Application Insights: Application pool recycling due to memory pressure",
+    "operation_name": "System",
+    "memory_usage": 95,
+    "max_memory": 100
+  },
+  {
+    "timestamp": "2024-01-15T15:45:21Z",
+    "service": "web-app",
+    "severity": "ERROR",
+    "message": "Application Insights: Exception in user controller - NullReferenceException",
+    "operation_name": "GetUserProfile",
+    "user_id": "user-466",
+    "session_id": "session-798",
+    "exception_type": "NullReferenceException"
+  },
+  {
+    "timestamp": "2024-01-15T15:45:22Z",
+    "service": "web-app",
+    "severity": "ERROR",
+    "message": "Application Insights: Exception in user controller - NullReferenceException",
+    "operation_name": "GetUserProfile",
+    "user_id": "user-467",
+    "session_id": "session-799",
+    "exception_type": "NullReferenceException"
+  },
+  {
+    "timestamp": "2024-01-15T15:45:23Z",
+    "service": "web-app",
+    "severity": "ERROR",
+    "message": "Application Insights: Exception in user controller - NullReferenceException",
+    "operation_name": "GetUserProfile",
+    "user_id": "user-468",
+    "session_id": "session-800",
+    "exception_type": "NullReferenceException"
+  },
+  {
+    "timestamp": "2024-01-15T15:45:24Z",
+    "service": "web-app",
+    "severity": "ERROR",
+    "message": "Application Insights: Exception in user controller - NullReferenceException",
+    "operation_name": "GetUserProfile",
+    "user_id": "user-469",
+    "session_id": "session-801",
+    "exception_type": "NullReferenceException"
+  },
+  {
+    "timestamp": "2024-01-15T15:45:25Z",
+    "service": "web-app",
+    "severity": "ERROR",
+    "message": "Application Insights: Exception in user controller - NullReferenceException",
+    "operation_name": "GetUserProfile",
+    "user_id": "user-470",
+    "session_id": "session-802",
+    "exception_type": "NullReferenceException"
+  },
+  {
+    "timestamp": "2024-01-15T15:45:26Z",
+    "service": "web-app",
+    "severity": "ERROR",
+    "message": "Application Insights: Exception in user controller - NullReferenceException",
+    "operation_name": "GetUserProfile",
+    "user_id": "user-471",
+    "session_id": "session-803",
+    "exception_type": "NullReferenceException"
+  },
+  {
+    "timestamp": "2024-01-15T15:45:27Z",
+    "service": "web-app",
+    "severity": "ERROR",
+    "message": "Application Insights: Exception in user controller - NullReferenceException",
+    "operation_name": "GetUserProfile",
+    "user_id": "user-472",
+    "session_id": "session-804",
+    "exception_type": "NullReferenceException"
+  },
+  {
+    "timestamp": "2024-01-15T15:45:28Z",
+    "service": "web-app",
+    "severity": "ERROR",
+    "message": "Application Insights: Exception in user controller - NullReferenceException",
+    "operation_name": "GetUserProfile",
+    "user_id": "user-473",
+    "session_id": "session-805",
+    "exception_type": "NullReferenceException"
+  },
+  {
+    "timestamp": "2024-01-15T15:45:29Z",
+    "service": "web-app",
+    "severity": "ERROR",
+    "message": "Application Insights: Exception in user controller - NullReferenceException",
+    "operation_name": "GetUserProfile",
+    "user_id": "user-474",
+    "session_id": "session-806",
+    "exception_type": "NullReferenceException"
+  }
+]

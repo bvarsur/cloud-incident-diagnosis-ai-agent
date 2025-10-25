@@ -1,0 +1,186 @@
+[
+  {
+    "timestamp": "2024-01-15T14:30:15Z",
+    "service": "api-gateway",
+    "severity": "ERROR",
+    "message": "HTTP 500 Internal Server Error - Database connection timeout",
+    "request_id": "req-12345",
+    "user_id": "user-789",
+    "endpoint": "/api/users",
+    "response_time": 5000
+  },
+  {
+    "timestamp": "2024-01-15T14:30:16Z",
+    "service": "api-gateway",
+    "severity": "ERROR",
+    "message": "HTTP 500 Internal Server Error - Database connection timeout",
+    "request_id": "req-12346",
+    "user_id": "user-790",
+    "endpoint": "/api/orders",
+    "response_time": 4800
+  },
+  {
+    "timestamp": "2024-01-15T14:30:17Z",
+    "service": "database",
+    "severity": "ERROR",
+    "message": "Connection pool exhausted - unable to create new connections",
+    "component": "postgresql",
+    "connection_count": 100
+  },
+  {
+    "timestamp": "2024-01-15T14:30:18Z",
+    "service": "api-gateway",
+    "severity": "ERROR",
+    "message": "HTTP 503 Service Unavailable - Upstream service timeout",
+    "request_id": "req-12347",
+    "endpoint": "/api/products",
+    "response_time": 30000
+  },
+  {
+    "timestamp": "2024-01-15T14:30:19Z",
+    "service": "api-gateway",
+    "severity": "ERROR",
+    "message": "HTTP 500 Internal Server Error - Database connection timeout",
+    "request_id": "req-12348",
+    "user_id": "user-791",
+    "endpoint": "/api/users",
+    "response_time": 5200
+  },
+  {
+    "timestamp": "2024-01-15T14:30:20Z",
+    "service": "database",
+    "severity": "WARN",
+    "message": "High CPU utilization detected - 85%",
+    "component": "postgresql",
+    "cpu_usage": 85
+  },
+  {
+    "timestamp": "2024-01-15T14:30:21Z",
+    "service": "api-gateway",
+    "severity": "ERROR",
+    "message": "HTTP 500 Internal Server Error - Database connection timeout",
+    "request_id": "req-12349",
+    "user_id": "user-792",
+    "endpoint": "/api/orders",
+    "response_time": 5100
+  },
+  {
+    "timestamp": "2024-01-15T14:30:22Z",
+    "service": "api-gateway",
+    "severity": "ERROR",
+    "message": "HTTP 500 Internal Server Error - Database connection timeout",
+    "request_id": "req-12350",
+    "user_id": "user-793",
+    "endpoint": "/api/users",
+    "response_time": 4900
+  },
+  {
+    "timestamp": "2024-01-15T14:30:23Z",
+    "service": "database",
+    "severity": "ERROR",
+    "message": "Connection timeout - query execution exceeded 30 seconds",
+    "component": "postgresql",
+    "query_time": 30000
+  },
+  {
+    "timestamp": "2024-01-15T14:30:24Z",
+    "service": "api-gateway",
+    "severity": "ERROR",
+    "message": "HTTP 500 Internal Server Error - Database connection timeout",
+    "request_id": "req-12351",
+    "user_id": "user-794",
+    "endpoint": "/api/products",
+    "response_time": 5300
+  },
+  {
+    "timestamp": "2024-01-15T14:30:25Z",
+    "service": "api-gateway",
+    "severity": "ERROR",
+    "message": "HTTP 500 Internal Server Error - Database connection timeout",
+    "request_id": "req-12352",
+    "user_id": "user-795",
+    "endpoint": "/api/users",
+    "response_time": 4800
+  },
+  {
+    "timestamp": "2024-01-15T14:30:26Z",
+    "service": "database",
+    "severity": "CRITICAL",
+    "message": "Database connection pool completely exhausted - no available connections",
+    "component": "postgresql",
+    "active_connections": 100,
+    "max_connections": 100
+  },
+  {
+    "timestamp": "2024-01-15T14:30:27Z",
+    "service": "api-gateway",
+    "severity": "ERROR",
+    "message": "HTTP 503 Service Unavailable - All upstream services down",
+    "request_id": "req-12353",
+    "endpoint": "/api/orders",
+    "response_time": 30000
+  },
+  {
+    "timestamp": "2024-01-15T14:30:28Z",
+    "service": "api-gateway",
+    "severity": "ERROR",
+    "message": "HTTP 503 Service Unavailable - All upstream services down",
+    "request_id": "req-12354",
+    "endpoint": "/api/users",
+    "response_time": 30000
+  },
+  {
+    "timestamp": "2024-01-15T14:30:29Z",
+    "service": "api-gateway",
+    "severity": "ERROR",
+    "message": "HTTP 503 Service Unavailable - All upstream services down",
+    "request_id": "req-12355",
+    "endpoint": "/api/products",
+    "response_time": 30000
+  },
+  {
+    "timestamp": "2024-01-15T14:30:30Z",
+    "service": "api-gateway",
+    "severity": "ERROR",
+    "message": "HTTP 503 Service Unavailable - All upstream services down",
+    "request_id": "req-12356",
+    "endpoint": "/api/orders",
+    "response_time": 30000
+  },
+  {
+    "timestamp": "2024-01-15T14:30:31Z",
+    "service": "api-gateway",
+    "severity": "ERROR",
+    "message": "HTTP 503 Service Unavailable - All upstream services down",
+    "request_id": "req-12357",
+    "endpoint": "/api/users",
+    "response_time": 30000
+  },
+  {
+    "timestamp": "2024-01-15T14:30:32Z",
+    "service": "api-gateway",
+    "severity": "ERROR",
+    "message": "HTTP 503 Service Unavailable - All upstream services down",
+    "request_id": "req-12358",
+    "endpoint": "/api/products",
+    "response_time": 30000
+  },
+  {
+    "timestamp": "2024-01-15T14:30:33Z",
+    "service": "api-gateway",
+    "severity": "ERROR",
+    "message": "HTTP 503 Service Unavailable - All upstream services down",
+    "request_id": "req-12359",
+    "endpoint": "/api/orders",
+    "response_time": 30000
+  },
+  {
+    "timestamp": "2024-01-15T14:30:34Z",
+    "service": "api-gateway",
+    "severity": "ERROR",
+    "message": "HTTP 503 Service Unavailable - All upstream services down",
+    "request_id": "req-12360",
+    "endpoint": "/api/users",
+    "response_time": 30000
+  }
+]
